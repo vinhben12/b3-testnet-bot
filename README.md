@@ -20,17 +20,6 @@ Before running the bot, make sure you have the following installed:
    git clone https://github.com/vinhben12/b3-testnet-bot.git
    ```
 
-2. Navigate into the project directory:
-
-   ```bash
-   cd b3-testnet-bot
-   ```
-
-3. Install dependencies:
-
-   ```bash
-   npm install
-   ```
 
 ### Setting Up Cookies
 
