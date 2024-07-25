@@ -1,7 +1,5 @@
 # B3 Testnet Bot
 
-![GitHub repo size](https://img.shields.io/github/repo-size/dante4rt/b3-testnet-bot)
-![GitHub](https://img.shields.io/github/license/dante4rt/b3-testnet-bot)
 
 B3 Incentivized Testnet BOT for claiming $PEWPEW rewards. This bot automates the process of claiming rewards using provided accounts and cookies.
 
